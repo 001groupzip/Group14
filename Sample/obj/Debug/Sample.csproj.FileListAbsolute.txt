@@ -1,0 +1,9 @@
+C:\Users\Alex\Documents\GitHub\Group14\Sample\bin\Debug\Sample.exe.config
+C:\Users\Alex\Documents\GitHub\Group14\Sample\bin\Debug\Sample.exe
+C:\Users\Alex\Documents\GitHub\Group14\Sample\bin\Debug\Sample.pdb
+C:\Users\Alex\Documents\GitHub\Group14\Sample\obj\Debug\Sample.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\GitHub\Group14\Sample\obj\Debug\Sample.Form1.resources
+C:\Users\Alex\Documents\GitHub\Group14\Sample\obj\Debug\Sample.Properties.Resources.resources
+C:\Users\Alex\Documents\GitHub\Group14\Sample\obj\Debug\Sample.csproj.GenerateResource.Cache
+C:\Users\Alex\Documents\GitHub\Group14\Sample\obj\Debug\Sample.exe
+C:\Users\Alex\Documents\GitHub\Group14\Sample\obj\Debug\Sample.pdb
