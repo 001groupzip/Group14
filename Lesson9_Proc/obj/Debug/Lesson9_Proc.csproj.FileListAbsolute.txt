@@ -1,0 +1,6 @@
+C:\Users\Alex\Documents\GitHub\Group14\Lesson9_Proc\bin\Debug\Lesson9_Proc.exe.config
+C:\Users\Alex\Documents\GitHub\Group14\Lesson9_Proc\bin\Debug\Lesson9_Proc.exe
+C:\Users\Alex\Documents\GitHub\Group14\Lesson9_Proc\bin\Debug\Lesson9_Proc.pdb
+C:\Users\Alex\Documents\GitHub\Group14\Lesson9_Proc\obj\Debug\Lesson9_Proc.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\GitHub\Group14\Lesson9_Proc\obj\Debug\Lesson9_Proc.exe
+C:\Users\Alex\Documents\GitHub\Group14\Lesson9_Proc\obj\Debug\Lesson9_Proc.pdb

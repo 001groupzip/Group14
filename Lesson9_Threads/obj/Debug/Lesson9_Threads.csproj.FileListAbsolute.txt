@@ -1,0 +1,5 @@
+C:\Users\Alex\Documents\GitHub\Group14\Lesson9_Threads\bin\Debug\Lesson9_Threads.exe.config
+C:\Users\Alex\Documents\GitHub\Group14\Lesson9_Threads\bin\Debug\Lesson9_Threads.exe
+C:\Users\Alex\Documents\GitHub\Group14\Lesson9_Threads\bin\Debug\Lesson9_Threads.pdb
+C:\Users\Alex\Documents\GitHub\Group14\Lesson9_Threads\obj\Debug\Lesson9_Threads.exe
+C:\Users\Alex\Documents\GitHub\Group14\Lesson9_Threads\obj\Debug\Lesson9_Threads.pdb

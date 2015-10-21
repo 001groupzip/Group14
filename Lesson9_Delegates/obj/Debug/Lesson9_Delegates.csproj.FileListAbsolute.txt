@@ -1,0 +1,5 @@
+C:\Users\Alex\Documents\GitHub\Group14\Lesson9_Delegates\bin\Debug\Lesson9_Delegates.exe.config
+C:\Users\Alex\Documents\GitHub\Group14\Lesson9_Delegates\bin\Debug\Lesson9_Delegates.exe
+C:\Users\Alex\Documents\GitHub\Group14\Lesson9_Delegates\bin\Debug\Lesson9_Delegates.pdb
+C:\Users\Alex\Documents\GitHub\Group14\Lesson9_Delegates\obj\Debug\Lesson9_Delegates.exe
+C:\Users\Alex\Documents\GitHub\Group14\Lesson9_Delegates\obj\Debug\Lesson9_Delegates.pdb
