@@ -1,0 +1,6 @@
+C:\Users\Alex\Documents\GitHub\Group14\Lesson10_Ser\bin\Debug\Lesson10_Ser.exe.config
+C:\Users\Alex\Documents\GitHub\Group14\Lesson10_Ser\bin\Debug\Lesson10_Ser.exe
+C:\Users\Alex\Documents\GitHub\Group14\Lesson10_Ser\bin\Debug\Lesson10_Ser.pdb
+C:\Users\Alex\Documents\GitHub\Group14\Lesson10_Ser\obj\Debug\Lesson10_Ser.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\GitHub\Group14\Lesson10_Ser\obj\Debug\Lesson10_Ser.exe
+C:\Users\Alex\Documents\GitHub\Group14\Lesson10_Ser\obj\Debug\Lesson10_Ser.pdb

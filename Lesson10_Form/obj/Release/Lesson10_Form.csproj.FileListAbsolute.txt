@@ -1,0 +1,8 @@
+C:\Users\Alex\Documents\GitHub\Group14\Lesson10_Form\bin\Release\Lesson10_Form.exe.config
+C:\Users\Alex\Documents\GitHub\Group14\Lesson10_Form\bin\Release\Lesson10_Form.exe
+C:\Users\Alex\Documents\GitHub\Group14\Lesson10_Form\bin\Release\Lesson10_Form.pdb
+C:\Users\Alex\Documents\GitHub\Group14\Lesson10_Form\obj\Release\Lesson10_Form.Form1.resources
+C:\Users\Alex\Documents\GitHub\Group14\Lesson10_Form\obj\Release\Lesson10_Form.Properties.Resources.resources
+C:\Users\Alex\Documents\GitHub\Group14\Lesson10_Form\obj\Release\Lesson10_Form.csproj.GenerateResource.Cache
+C:\Users\Alex\Documents\GitHub\Group14\Lesson10_Form\obj\Release\Lesson10_Form.exe
+C:\Users\Alex\Documents\GitHub\Group14\Lesson10_Form\obj\Release\Lesson10_Form.pdb

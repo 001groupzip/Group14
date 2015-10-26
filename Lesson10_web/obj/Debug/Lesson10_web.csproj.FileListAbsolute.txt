@@ -1,0 +1,6 @@
+C:\Users\Alex\Documents\GitHub\Group14\Lesson10_web\bin\Debug\Lesson10_web.exe.config
+C:\Users\Alex\Documents\GitHub\Group14\Lesson10_web\bin\Debug\Lesson10_web.exe
+C:\Users\Alex\Documents\GitHub\Group14\Lesson10_web\bin\Debug\Lesson10_web.pdb
+C:\Users\Alex\Documents\GitHub\Group14\Lesson10_web\obj\Debug\Lesson10_web.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\GitHub\Group14\Lesson10_web\obj\Debug\Lesson10_web.exe
+C:\Users\Alex\Documents\GitHub\Group14\Lesson10_web\obj\Debug\Lesson10_web.pdb

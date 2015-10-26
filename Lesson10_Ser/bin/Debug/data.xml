@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<ArrayOfPoint xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Point>
+    <x>98</x>
+    <y>-18</y>
+    <label> Точка_0</label>
+  </Point>
+  <Point>
+    <x>11</x>
+    <y>-60</y>
+    <label> Точка_1</label>
+  </Point>
+  <Point>
+    <x>-44</x>
+    <y>-48</y>
+    <label> Точка_2</label>
+  </Point>
+  <Point>
+    <x>-49</x>
+    <y>45</y>
+    <label> Точка_3</label>
+  </Point>
+  <Point>
+    <x>-28</x>
+    <y>51</y>
+    <label> Точка_4</label>
+  </Point>
+  <Point>
+    <x>15</x>
+    <y>43</y>
+    <label> Точка_5</label>
+  </Point>
+  <Point>
+    <x>-66</x>
+    <y>53</y>
+    <label> Точка_6</label>
+  </Point>
+  <Point>
+    <x>-59</x>
+    <y>15</y>
+    <label> Точка_7</label>
+  </Point>
+  <Point>
+    <x>-84</x>
+    <y>-43</y>
+    <label> Точка_8</label>
+  </Point>
+  <Point>
+    <x>-82</x>
+    <y>-69</y>
+    <label> Точка_9</label>
+  </Point>
+</ArrayOfPoint>
