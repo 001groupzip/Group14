@@ -8,7 +8,7 @@ namespace WorkersLibrary
 {
     public sealed class Manager : Worker
     {
-        public int ProjectsCount;
+        public int ProjectsCount{get; set;}
 
         public Manager(string name, int age, Int64 snn, int projCount)
             : base(name, age, snn)

@@ -9,7 +9,7 @@ namespace WorkersLibrary
     public sealed class Driver : Worker
     {
         private string carType;
-        public string CarType { get { return carType; } private set { carType = value; } }
+        public string CarType { get { return carType; } set { carType = value; } }
 
         private int hours;
         public int Hours

@@ -5,13 +5,13 @@ namespace WorkersLibrary
     public abstract class Worker : IPayTax
     {
         private string name;
-        public string Name { get { return name; } private set { name = value; } }
+        public string Name { get { return name; } set { name = value; } }
 
         private int age;
         public int Age
         {
             get { return age; }
-            private set
+            set
             {
                 if (value < 18 || value > 100)
                     Console.WriteLine("Ошибка ввода возраста");
@@ -21,7 +21,7 @@ namespace WorkersLibrary
         }
 
         private Int64 snn;
-        public Int64 SNN { get { return snn; } private set { snn = value; } }
+        public Int64 SNN { get { return snn; } set { snn = value; } }
 
         private double salary;
         public double Salary { get { return salary; } set { salary = value; } }
